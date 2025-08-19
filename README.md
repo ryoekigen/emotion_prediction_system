@@ -15,15 +15,6 @@ Machine Learning Module – Consumes extracted features and applies ML models (e
 
 This repository contains only the Middleware Module, which ensures smooth communication between services and coordinates the workflow.
 
-## 🚀 Features
-
-RESTful API with FastAPI
-
-Communication with the OpenFace processing service
-
-Manages processing requests and collects results
-
-Containerized with Docker for deployment
 
 ## 🔗 About OpenFace
 
