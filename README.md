@@ -1,5 +1,3 @@
-Middleware Module
-
 ## 📌 Project Overview
 
 The system is designed with a modular architecture:
